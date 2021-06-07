@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+D:\Jesus\Universidad2semestre\Apo1\semana12\T-2_Garces_Jesus\src\.metadata\.plugins\org.eclipse.jdt.core
+2538428657.index
+2613800718.index
+432452911.index
+1871998204.index
+3243141061.index
+2554867814.index
+248348808.index

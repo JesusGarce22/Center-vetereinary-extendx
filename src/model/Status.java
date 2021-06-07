@@ -1,0 +1,5 @@
+package model;
+
+public enum Status{
+	WAIT,INCONSULTATION,TRANFER,AUTORIZEDEXIT,UNATTENDEDEXIT;
+}
